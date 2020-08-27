@@ -6,4 +6,4 @@ python:
 script: python test_cal.py
 branches:
     only:
-        -master
+        - master
